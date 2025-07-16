@@ -84,7 +84,7 @@ e-commerce(final)/
 ---
 
 ## Credits
-- Developed by: [Your Name]
+- Developed by: [Abu Bokor,Kushal,Fahi]
 - Backend: Django, MySQL
 - Frontend: HTML, CSS, JavaScript
 
